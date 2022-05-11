@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mdqa_dhis_package">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/MDQA-DHIS2-metadata.json.zip!/" />
+      <root url="jar://$PROJECT_DIR$/SL-MDQA-DHIS2-metadata.json.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
