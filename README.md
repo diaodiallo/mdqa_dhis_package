@@ -12,11 +12,11 @@ You can get your admin user by calling this api endpoint "your_base_url/api/user
 * The displayName “admin admin” by the displayName of your admin user.
 * And the name "admin" by your admin user name.
 #### Additional configuration
-* User groups
+User groups:
 Add your users to MRDQA package user groups.
-- MRDQA Admin: Add here the user which can have access and edit permissions to the package metadata. This group allow user to push supervision planning from app to DHIS2.
-- MRDQA Data access: Add here user which can submit and view the submitted data. This group allow access to the package dashboard.
-* Reporting period
+* MRDQA Admin: Add here the user which can have access and edit permissions to the package metadata. This group allow user to push supervision planning from app to DHIS2.
+* MRDQA Data access: Add here user which can submit and view the submitted data. This group allow access to the package dashboard.
+Reporting period:
 Change in your convenience the period type for your national MRDQA reporting form. The default period type is quaterly, edit the data set "MDQA Data collection" to modify the period type.
-* Organization unit assignment
+Organization unit assignment:
 Assign the data set "MDQA Data collection" to appropriate organisation units for the supervision activities.
