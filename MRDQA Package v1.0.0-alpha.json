@@ -10,13 +10,6 @@
       "sortOrder": 1,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -39,13 +32,6 @@
       "sortOrder": 4,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -107,13 +93,6 @@
       "sortOrder": 3,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -163,13 +142,6 @@
       "sortOrder": 5,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -684,13 +656,6 @@
       "sortOrder": 6,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -821,13 +786,6 @@
       "sortOrder": 2,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -850,13 +808,6 @@
       "sortOrder": 8,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -915,13 +866,6 @@
       "sortOrder": 7,
       "showRowTotals": false,
       "showColumnTotals": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "dataSet": {
         "id": "NsmCtZg8iSf"
       },
@@ -1052,13 +996,6 @@
       "name": "Month 2",
       "id": "Ix9THaZBkiJ",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
@@ -1077,13 +1014,6 @@
       "name": "Month-to-month consistency ratio",
       "id": "ix91JgP8xqR",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
@@ -1102,13 +1032,6 @@
       "name": "Arithmetic errors",
       "id": "od0Mm01zpKQ",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1127,13 +1050,6 @@
       "name": "Transcription errors",
       "id": "lQGhxhBrpce",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1152,13 +1068,6 @@
       "name": "Month 3",
       "id": "V4DQDmWkjsy",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
@@ -1177,13 +1086,6 @@
       "name": "Standard forms",
       "id": "wjufo7bv1PQ",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
@@ -1202,13 +1104,6 @@
       "name": "Stock management forms not up to date",
       "id": "xyJ8t8mkZvg",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1227,13 +1122,6 @@
       "name": "Annual consistency ratio",
       "id": "IAXTtXpVo9E",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
@@ -1252,13 +1140,6 @@
       "name": "Some documents were missing when the report was prepared",
       "id": "Gztg9Ecfm3O",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1277,13 +1158,6 @@
       "name": "Up-to-date",
       "id": "kVJ768ndA92",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
@@ -1302,13 +1176,6 @@
       "name": "Last Month",
       "id": "kxNmTYwPMm8",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
@@ -1327,13 +1194,6 @@
       "name": "HMIS",
       "id": "mvLlOgqHMNf",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1352,13 +1212,6 @@
       "name": "Some documents are now missing",
       "id": "ty0gSFktRdR",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1377,13 +1230,6 @@
       "name": "Vaccine stock out",
       "id": "SdNgwb9rShR",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1402,13 +1248,6 @@
       "name": "Drugs stock out",
       "id": "KhxExvNmFgM",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1427,13 +1266,6 @@
       "name": "Monthly report",
       "id": "mQVX8uPEPFI",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1452,13 +1284,6 @@
       "name": "No discrepancy",
       "id": "iY8s0qp0csp",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1477,13 +1302,6 @@
       "name": "Month 1",
       "id": "GE5XJ37bVo3",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
@@ -1520,13 +1338,6 @@
       "name": "Commodity form not up to date",
       "id": "o2qVVjc4oxH",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1545,13 +1356,6 @@
       "name": "Stock out of treatment drugs",
       "id": "KvXPrOrY7Cl",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
@@ -1570,13 +1374,6 @@
       "name": "Available",
       "id": "qbDeOrbm8XU",
       "ignoreApproval": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
@@ -1603,20 +1400,6 @@
         "userGroups": {},
         "public": "rw------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "users": [],
       "managedGroups": [],
@@ -1634,20 +1417,6 @@
         "users": {},
         "userGroups": {},
         "public": "rw------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "users": [],
@@ -1697,20 +1466,6 @@
       "expiryDays": 0,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataSetElements": [
         {
@@ -3968,20 +3723,6 @@
         "public": "--------"
       },
       "dataDimension": true,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -4026,20 +3767,6 @@
         "public": "--------"
       },
       "dataDimension": true,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -4075,20 +3802,6 @@
         "public": "--------"
       },
       "dataDimension": true,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "categoryOptions": [
@@ -4178,20 +3891,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4218,20 +3917,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4260,20 +3945,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4300,20 +3971,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4342,20 +3999,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4382,20 +4025,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4424,20 +4053,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4464,20 +4079,6 @@
           }
         },
         "public": "--rw----"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4506,20 +4107,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4546,20 +4133,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4588,20 +4161,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4628,20 +4187,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4670,20 +4215,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4711,20 +4242,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4751,20 +4268,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4809,20 +4312,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4849,20 +4338,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4891,20 +4366,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -4931,20 +4392,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -4973,20 +4420,6 @@
         },
         "public": "--------"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "attributeValues": [],
       "translations": [],
       "organisationUnits": []
@@ -5013,20 +4446,6 @@
           }
         },
         "public": "--------"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "attributeValues": [],
       "translations": [],
@@ -5060,20 +4479,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5104,20 +4509,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5150,20 +4541,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5194,20 +4571,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5240,20 +4603,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5284,20 +4633,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5330,20 +4665,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5374,20 +4695,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5420,20 +4727,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5464,20 +4757,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5510,20 +4789,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5554,20 +4819,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5600,20 +4851,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5644,20 +4881,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5690,20 +4913,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5734,20 +4943,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5780,20 +4975,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5824,20 +5005,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5870,20 +5037,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -5914,20 +5067,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -5960,20 +5099,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6004,20 +5129,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6050,20 +5161,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6094,20 +5191,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6140,20 +5223,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6184,20 +5253,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6230,20 +5285,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6274,20 +5315,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6320,20 +5347,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6364,20 +5377,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6410,20 +5409,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6454,20 +5439,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6500,20 +5471,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6544,20 +5501,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6590,20 +5533,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6634,20 +5563,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6680,20 +5595,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6724,20 +5625,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6770,20 +5657,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6814,20 +5687,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6860,20 +5719,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6904,20 +5749,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -6950,20 +5781,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -6994,20 +5811,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7040,20 +5843,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7084,20 +5873,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7130,20 +5905,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7174,20 +5935,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7220,20 +5967,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7264,20 +5997,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7310,20 +6029,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7354,20 +6059,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7400,20 +6091,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7444,20 +6121,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7490,20 +6153,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7534,20 +6183,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7580,20 +6215,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7624,20 +6245,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7670,20 +6277,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7714,20 +6307,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7760,20 +6339,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7804,20 +6369,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7850,20 +6401,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7894,20 +6431,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -7940,20 +6463,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -7984,20 +6493,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8030,20 +6525,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8074,20 +6555,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8120,20 +6587,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8164,20 +6617,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8210,20 +6649,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8254,20 +6679,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8300,20 +6711,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8344,20 +6741,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8390,20 +6773,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8434,20 +6803,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8480,20 +6835,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8524,20 +6865,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8570,20 +6897,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8614,20 +6927,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8660,20 +6959,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8704,20 +6989,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8750,20 +7021,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8794,20 +7051,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8840,20 +7083,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8884,20 +7113,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -8930,20 +7145,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -8974,20 +7175,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9020,20 +7207,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9064,20 +7237,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9110,20 +7269,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9154,20 +7299,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9200,20 +7331,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9244,20 +7361,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9290,20 +7393,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9334,20 +7423,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9380,20 +7455,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9424,20 +7485,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9470,20 +7517,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9514,20 +7547,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9560,20 +7579,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9604,20 +7609,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9650,20 +7641,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9694,20 +7671,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9740,20 +7703,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9784,20 +7733,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9830,20 +7765,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9874,20 +7795,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -9920,20 +7827,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -9964,20 +7857,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10010,20 +7889,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10054,20 +7919,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10100,20 +7951,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10144,20 +7981,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10190,20 +8013,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10234,20 +8043,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10280,20 +8075,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10324,20 +8105,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10370,20 +8137,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10414,20 +8167,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10460,20 +8199,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10504,20 +8229,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10550,20 +8261,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10594,20 +8291,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10640,20 +8323,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10684,20 +8353,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10730,20 +8385,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10774,20 +8415,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10820,20 +8447,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10864,20 +8477,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -10910,20 +8509,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -10954,20 +8539,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11000,20 +8571,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11044,20 +8601,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11090,20 +8633,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11134,20 +8663,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11180,20 +8695,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11224,20 +8725,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11270,20 +8757,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11314,20 +8787,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11360,20 +8819,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11404,20 +8849,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11450,20 +8881,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11494,20 +8911,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11540,20 +8943,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11584,20 +8973,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11630,20 +9005,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11674,20 +9035,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11720,20 +9067,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11764,20 +9097,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11810,20 +9129,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11854,20 +9159,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11900,20 +9191,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -11944,20 +9221,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -11990,20 +9253,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12034,20 +9283,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12080,20 +9315,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12124,20 +9345,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12170,20 +9377,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12214,20 +9407,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12260,20 +9439,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12304,20 +9469,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12350,20 +9501,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12394,20 +9531,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12440,20 +9563,6 @@
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12484,20 +9593,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12530,20 +9625,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12574,20 +9655,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12620,20 +9687,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12664,20 +9717,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12710,20 +9749,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12754,20 +9779,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12800,20 +9811,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12844,20 +9841,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12890,20 +9873,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -12934,20 +9903,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -12980,20 +9935,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13024,20 +9965,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13070,20 +9997,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13114,20 +10027,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13160,20 +10059,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13204,20 +10089,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13250,20 +10121,6 @@
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13294,20 +10151,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13340,20 +10183,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13384,20 +10213,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13430,20 +10245,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13474,20 +10275,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13520,20 +10307,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13564,20 +10337,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13610,20 +10369,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13654,20 +10399,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13700,20 +10431,6 @@
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13744,20 +10461,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13790,20 +10493,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13834,20 +10523,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13880,20 +10555,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -13924,20 +10585,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -13970,20 +10617,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14014,20 +10647,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14060,20 +10679,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14104,20 +10709,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14150,20 +10741,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14194,20 +10771,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14240,20 +10803,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14284,20 +10833,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14330,20 +10865,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14374,20 +10895,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14420,20 +10927,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14464,20 +10957,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14510,20 +10989,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14554,20 +11019,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14600,20 +11051,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14644,20 +11081,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14690,20 +11113,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14734,20 +11143,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14780,20 +11175,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14824,20 +11205,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14870,20 +11237,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -14914,20 +11267,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -14960,20 +11299,6 @@
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15004,20 +11329,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15050,20 +11361,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15094,20 +11391,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15140,20 +11423,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15184,20 +11453,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15230,20 +11485,6 @@
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15274,20 +11515,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15320,20 +11547,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15364,20 +11577,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15410,20 +11609,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15454,20 +11639,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15500,20 +11671,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15544,20 +11701,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15590,20 +11733,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15634,20 +11763,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15680,20 +11795,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15724,20 +11825,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15770,20 +11857,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15814,20 +11887,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15860,20 +11919,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15904,20 +11949,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -15950,20 +11981,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -15994,20 +12011,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16040,20 +12043,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16084,20 +12073,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16130,20 +12105,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16174,20 +12135,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16220,20 +12167,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16264,20 +12197,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16310,20 +12229,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16354,20 +12259,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16400,20 +12291,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16444,20 +12321,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16490,20 +12353,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16534,20 +12383,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16580,20 +12415,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16624,20 +12445,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16670,20 +12477,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16714,20 +12507,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16760,20 +12539,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16804,20 +12569,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16850,20 +12601,6 @@
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16894,20 +12631,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -16940,20 +12663,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -16985,20 +12694,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17024,20 +12719,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "p0W8LpjjSYL"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -17070,20 +12751,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17114,20 +12781,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "vhL7VDS2VJW"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -17160,20 +12813,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17204,20 +12843,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -17250,20 +12875,6 @@
       "categoryCombo": {
         "id": "WYM1tlgPJpq"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17294,20 +12905,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -17340,20 +12937,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17384,20 +12967,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -17430,20 +12999,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17474,20 +13029,6 @@
       "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
-      },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "translations": [],
       "attributeValues": [],
@@ -17520,20 +13061,6 @@
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "attributeValues": [],
       "legendSets": [],
@@ -17561,20 +13088,6 @@
         "public": "--------"
       },
       "skipTotal": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "categories": [
         {
@@ -17602,20 +13115,6 @@
         "public": "--------"
       },
       "skipTotal": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "categories": [
         {
@@ -17643,20 +13142,6 @@
         "public": "--------"
       },
       "skipTotal": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "translations": [],
       "categories": [
         {
@@ -17737,13 +13222,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -17795,13 +13273,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -18148,13 +13619,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -18206,13 +13670,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [
@@ -18398,13 +13855,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -18456,13 +13906,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [
@@ -18580,13 +14023,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -18638,13 +14074,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [
@@ -18761,13 +14190,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -18819,13 +14241,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -19298,13 +14713,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -19356,13 +14764,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -19835,13 +15236,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -19893,13 +15287,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -20366,13 +15753,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -20424,13 +15804,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -20897,13 +16270,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -20955,13 +16321,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [
@@ -21114,13 +16473,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -21172,13 +16524,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -22258,13 +17603,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -22316,13 +17654,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -22450,13 +17781,6 @@
       "regression": false,
       "colorSet": "DEFAULT",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -22508,13 +17832,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [],
@@ -22842,13 +18159,6 @@
       "regression": false,
       "colorSet": "DARK",
       "skipRounding": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "fontStyle": {},
       "relativePeriods": {
         "thisYear": false,
@@ -22900,13 +18210,6 @@
         "reportingPeriod": false,
         "organisationUnit": false,
         "grandParentOrganisationUnit": false
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
       },
       "dataElementGroupSetDimensions": [],
       "axes": [
@@ -23045,20 +18348,6 @@
         "public": "--------"
       },
       "restrictFilters": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "favorites": [],
       "dashboardItems": [
         {
@@ -23243,20 +18532,6 @@
         "public": "--------"
       },
       "restrictFilters": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "favorites": [],
       "dashboardItems": [
         {
@@ -23441,20 +18716,6 @@
         "public": "--------"
       },
       "restrictFilters": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "favorites": [],
       "dashboardItems": [
         {
@@ -23522,20 +18783,6 @@
         "public": "--------"
       },
       "restrictFilters": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "favorites": [],
       "dashboardItems": [
         {
@@ -23643,20 +18890,6 @@
         "public": "--------"
       },
       "restrictFilters": false,
-      "lastUpdatedBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
-      "createdBy": {
-        "code": "admin",
-        "displayName": "admin admin",
-        "name": "admin admin",
-        "id": "M5zQapPyTZI",
-        "username": "admin"
-      },
       "favorites": [],
       "dashboardItems": [
         {
@@ -23762,20 +18995,6 @@
                 }
             },
             "public": "--------"
-        },
-        "lastUpdatedBy": {
-            "code": "admin",
-            "displayName": "admin admin",
-            "name": "admin admin",
-            "id": "M5zQapPyTZI",
-            "username": "admin"
-        },
-        "createdBy": {
-            "code": "admin",
-            "displayName": "admin admin",
-            "name": "admin admin",
-            "id": "M5zQapPyTZI",
-            "username": "admin"
         },
         "attributeValues": [],
         "translations": [],
