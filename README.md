@@ -1,6 +1,7 @@
 ## Overview
+This DHIS2 package is designed to work with an <a href="https://github.com/diaodiallo/mrdqa_distributions">android mobile application</a>, this package dataset is populated by this application after countries supervision activities. 
 ## Requirements
-The following minimum requirements need to be met the DHIS2 instance;
+The following minimum requirements need to be met by the DHIS2 instance;
 * DHIS2 version 2.35 and above
 ## Installation
 ### Metadata Package
@@ -14,3 +15,5 @@ Add your users to MRDQA package user groups.
 Change in your convenience the period type for your national MRDQA reporting form. The default period type is quarterly, edit the data set "MDQA Data collection" to modify the period type.
 #### Organization unit assignment:
 Assign the data set "MDQA Data collection" to appropriate organisation units for the supervision activities.
+#### Data analysis
+After having a working DHIS2 package you can update or add dashboard chart at your convenience, there are five default dashboard.
