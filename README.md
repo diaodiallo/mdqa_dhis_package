@@ -16,4 +16,4 @@ Change in your convenience the period type for your national MRDQA reporting for
 #### Organization unit assignment:
 Assign the data set "MDQA Data collection" to appropriate organisation units for the supervision activities.
 #### Data analysis
-After having a working DHIS2 package you can update or add dashboard chart at your convenience, there are five default dashboard.
+This package have five preconfigured dashboards you can however update or add dashboards/charts at your convenience.
