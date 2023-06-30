@@ -16,4 +16,4 @@ Change in your convenience the period type for your national MRDQA reporting for
 #### Organization unit assignment:
 Assign the data set "MDQA Data collection" to appropriate organisation units for the supervision activities.
 #### Data analysis
-This package have five preconfigured dashboards you can however update or add dashboards/charts at your convenience.
+This package have six preconfigured dashboards you can however update or add dashboards/charts at your convenience.
