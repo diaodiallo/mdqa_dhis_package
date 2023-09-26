@@ -4263,9 +4263,9 @@
       "code": "OPTION_FORMS_NOT_UP-TO-DATE",
       "created": "2022-03-08T08:00:00.222",
       "lastUpdated": "2022-05-05T11:40:39.360",
-      "name": "Les formulaires de gestion des stocks ne sont pas à jour",
+      "name": "Les fiches de gestion des stocks ne sont pas à jour",
       "id": "O2htxvnoeiN",
-      "shortName": "Les formulaires de gestion des stocks ne sont pas à jour",
+      "shortName": "Les fiches de stock ne sont pas à jour",
       "sharing": {
         "owner": "ADMIN_ID",
         "userGroups": {
@@ -13085,7 +13085,7 @@
       "id": "x1MAZNEGrYI",
       "created": "2022-01-11T14:55:48.503",
       "name": "COHÉRENCE: Nombre de nouveaux suspects de paludisme (Tout age)",
-      "shortName": "COH: # de nouveaux suspects de paludisme (Tout age)",
+      "shortName": "COH: # de nouveaux suspects paludisme (Tout age)",
       "aggregationType": "AVERAGE",
       "domainType": "AGGREGATE",
       "valueType": "NUMBER",
