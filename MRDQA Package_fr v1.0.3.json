@@ -10722,7 +10722,7 @@
       "id": "ixOmobsy61N",
       "created": "2022-01-11T14:55:48.496",
       "name": "MDQA: Complétude des élements de données du rapport mensuel du paludisme",
-      "shortName": "MDQA: Complétude des élements de données du rapport mensuel du paludisme",
+      "shortName": "MDQA: Complétude des élements du rapport mensuel",
       "aggregationType": "AVERAGE",
       "domainType": "AGGREGATE",
       "valueType": "NUMBER",
