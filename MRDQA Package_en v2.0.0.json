@@ -993,6 +993,73 @@
           "id": "g721cDAuOoG"
         }
       ]
+    },
+    {
+      "created": "2024-11-13T10:17:02.626",
+      "lastUpdated": "2024-11-13T10:17:02.626",
+      "name": "Action Plan",
+      "id": "vxgt0U01Zqr",
+      "disableDataElementAutoGroup": false,
+      "sortOrder": 9,
+      "showRowTotals": false,
+      "showColumnTotals": false,
+      "dataSet": {
+        "id": "NsmCtZg8iSf"
+      },
+      "greyedFields": [],
+      "attributeValues": [],
+      "indicators": [],
+      "translations": [],
+      "dataElements": [
+        {
+          "id": "RhDklLvDjUX"
+        },
+        {
+          "id": "vU9WXtWMGsu"
+        },
+        {
+          "id": "GnpLxUjAaSN"
+        },
+        {
+          "id": "vHiMwNUcOSo"
+        },
+        {
+          "id": "S71jro9RdoW"
+        },
+        {
+          "id": "v9TOuOKoZxb"
+        },
+        {
+          "id": "IwClTTnBn8k"
+        },
+        {
+          "id": "V6COQEjJ7E1"
+        },
+        {
+          "id": "l6V1q2IbdsP"
+        },
+        {
+          "id": "oiPpA162OOT"
+        },
+        {
+          "id": "DJQZ9jCJXlo"
+        },
+        {
+          "id": "l30IhaILYwu"
+        },
+        {
+          "id": "iUwG4E82fX9"
+        },
+        {
+          "id": "LRZjstnvZJR"
+        },
+        {
+          "id": "uoQXsPWAWiQ"
+        },
+        {
+          "id": "ezBn7tPumCx"
+        }
+      ]
     }
   ],
   "categoryOptionCombos": [
@@ -3696,6 +3763,134 @@
         {
           "dataElement": {
             "id": "e0jzR5w7VRy"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "RhDklLvDjUX"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "vU9WXtWMGsu"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "GnpLxUjAaSN"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "vHiMwNUcOSo"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "S71jro9RdoW"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "v9TOuOKoZxb"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "IwClTTnBn8k"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "V6COQEjJ7E1"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "l6V1q2IbdsP"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "oiPpA162OOT"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "DJQZ9jCJXlo"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "l30IhaILYwu"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "iUwG4E82fX9"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "LRZjstnvZJR"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "uoQXsPWAWiQ"
+          },
+          "dataSet": {
+            "id": "NsmCtZg8iSf"
+          }
+        },
+        {
+          "dataElement": {
+            "id": "ezBn7tPumCx"
           },
           "dataSet": {
             "id": "NsmCtZg8iSf"
@@ -13036,7 +13231,13 @@
       },
       "sharing": {
         "owner": "ADMIN_ID",
-        "userGroups": {},
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
         "external": false,
         "public": "rw------",
         "users": {}
@@ -13377,6 +13578,518 @@
       "domainType": "AGGREGATE",
       "valueType": "NUMBER",
       "zeroIsSignificant": true,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_ACTION_POINT_DESCRIPTION-C",
+      "lastUpdated": "2024-11-13T10:11:02.530",
+      "id": "oiPpA162OOT",
+      "created": "2024-11-13T10:11:02.530",
+      "name": "DQI: Description of Action plan C",
+      "shortName": "DQI: Description of Action plan C",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_RESPONSIBLES-C",
+      "lastUpdated": "2024-11-13T10:11:33.270",
+      "id": "DJQZ9jCJXlo",
+      "created": "2024-11-13T10:11:33.270",
+      "name": "DQI: Responsible(s) C",
+      "shortName": "DQI: Responsible(s) C",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_TIMELINE-A",
+      "lastUpdated": "2024-11-13T10:43:43.498",
+      "id": "vHiMwNUcOSo",
+      "created": "2024-11-13T10:09:02.758",
+      "name": "DQI: Timeline A",
+      "shortName": "DQI: Timeline A",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_ACTION_POINT_DESCRIPTION-A",
+      "lastUpdated": "2024-11-13T10:07:59.490",
+      "id": "vU9WXtWMGsu",
+      "created": "2024-11-13T10:07:59.490",
+      "name": "DQI: Description of Action plan A",
+      "shortName": "DQI: Description of Action plan A",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_WEAKNESSES-A",
+      "lastUpdated": "2024-11-13T10:07:17.817",
+      "id": "RhDklLvDjUX",
+      "created": "2024-11-13T10:07:17.817",
+      "name": "DQI: Identified Weakness A",
+      "shortName": "DQI: Identified Weakness A",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_RESPONSIBLES-D",
+      "lastUpdated": "2024-11-13T10:12:30.525",
+      "id": "uoQXsPWAWiQ",
+      "created": "2024-11-13T10:12:30.525",
+      "name": "DQI: Responsible(s) D",
+      "shortName": "DQI: Responsible(s) D",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_ACTION_POINT_DESCRIPTION-D",
+      "lastUpdated": "2024-11-13T10:12:02.110",
+      "id": "LRZjstnvZJR",
+      "created": "2024-11-13T10:12:02.110",
+      "name": "DQI: Description of Action plan D",
+      "shortName": "DQI: Description of Action plan D",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_TIMELINE-C",
+      "lastUpdated": "2024-11-13T10:44:09.701",
+      "id": "l30IhaILYwu",
+      "created": "2024-11-13T10:11:46.606",
+      "name": "DQI: Timeline C",
+      "shortName": "DQI: Timeline C",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_RESPONSIBLES-B",
+      "lastUpdated": "2024-11-13T10:10:07.913",
+      "id": "IwClTTnBn8k",
+      "created": "2024-11-13T10:10:07.913",
+      "name": "DQI: Responsible(s) B",
+      "shortName": "DQI: Responsible(s) B",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_TIMELINE-B",
+      "lastUpdated": "2024-11-13T10:43:54.857",
+      "id": "V6COQEjJ7E1",
+      "created": "2024-11-13T10:10:28.270",
+      "name": "DQI: Timeline B",
+      "shortName": "DQI: Timeline B",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_WEAKNESSES-C",
+      "lastUpdated": "2024-11-13T10:11:14.320",
+      "id": "l6V1q2IbdsP",
+      "created": "2024-11-13T10:11:14.320",
+      "name": "DQI: Identified Weakness C",
+      "shortName": "DQI: Identified Weakness C",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_RESPONSIBLES-A",
+      "lastUpdated": "2024-11-13T10:08:29.753",
+      "id": "GnpLxUjAaSN",
+      "created": "2024-11-13T10:08:29.753",
+      "name": "DQI: Responsible(s) A",
+      "shortName": "DQI: Responsible(s) A",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_WEAKNESSES-D",
+      "lastUpdated": "2024-11-13T10:12:15.549",
+      "id": "iUwG4E82fX9",
+      "created": "2024-11-13T10:12:15.549",
+      "name": "DQI: Identified Weakness D",
+      "shortName": "DQI: Identified Weakness D",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_ACTION_POINT_DESCRIPTION-B",
+      "lastUpdated": "2024-11-13T10:09:38.006",
+      "id": "v9TOuOKoZxb",
+      "created": "2024-11-13T10:09:38.006",
+      "name": "DQI: Description of Action plan B",
+      "shortName": "DQI: Description of Action plan B",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_TIMELINE-D",
+      "lastUpdated": "2024-11-13T10:44:21.815",
+      "id": "ezBn7tPumCx",
+      "created": "2024-11-13T10:12:43.335",
+      "name": "DQI: Timeline D",
+      "shortName": "DQI: Timeline D",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
+      "categoryCombo": {
+        "id": "bjDvmb4bfuf"
+      },
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "translations": [],
+      "attributeValues": [],
+      "legendSets": [],
+      "aggregationLevels": []
+    },
+    {
+      "code": "DQI_WEAKNESSES-B",
+      "lastUpdated": "2024-11-13T10:09:56.545",
+      "id": "S71jro9RdoW",
+      "created": "2024-11-13T10:09:56.545",
+      "name": "DQI: Identified Weakness B",
+      "shortName": "DQI: Identified Weakness B",
+      "aggregationType": "NONE",
+      "domainType": "AGGREGATE",
+      "valueType": "TEXT",
+      "zeroIsSignificant": false,
       "categoryCombo": {
         "id": "bjDvmb4bfuf"
       },
@@ -19960,6 +20673,638 @@
           "axis": 0
         }
       ]
+    },
+    {
+      "lastUpdated": "2024-11-13T10:54:21.273",
+      "id": "sveVtoq3Ior",
+      "created": "2024-11-13T10:49:40.190",
+      "name": "Action plan D",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "userOrganisationUnitChildren": false,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": true,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
+      "fontStyle": {},
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last30Days": false,
+        "last10Years": false,
+        "last52Weeks": false,
+        "last90Days": false,
+        "thisWeek": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "yesterday": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "lastQuarter": true,
+        "thisSixMonth": false,
+        "last3Months": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "weeksThisYear": false,
+        "lastBiWeek": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "attributeValues": [],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "iUwG4E82fX9"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "LRZjstnvZJR"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "uoQXsPWAWiQ"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "ezBn7tPumCx"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2024-11-13T10:53:45.435",
+      "id": "MOMo0wzVGfC",
+      "created": "2024-11-13T10:49:40.190",
+      "name": "Action plan A",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "userOrganisationUnitChildren": false,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": true,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
+      "fontStyle": {},
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last30Days": false,
+        "last10Years": false,
+        "last52Weeks": false,
+        "last90Days": false,
+        "thisWeek": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "yesterday": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "lastQuarter": true,
+        "thisSixMonth": false,
+        "last3Months": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "weeksThisYear": false,
+        "lastBiWeek": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "attributeValues": [],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "RhDklLvDjUX"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "vU9WXtWMGsu"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "GnpLxUjAaSN"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "vHiMwNUcOSo"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2024-11-13T10:53:59.757",
+      "id": "MbET1PqOFrY",
+      "created": "2024-11-13T10:49:40.190",
+      "name": "Action plan B",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "userOrganisationUnitChildren": false,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": true,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
+      "fontStyle": {},
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last30Days": false,
+        "last10Years": false,
+        "last52Weeks": false,
+        "last90Days": false,
+        "thisWeek": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "yesterday": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "lastQuarter": true,
+        "thisSixMonth": false,
+        "last3Months": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "weeksThisYear": false,
+        "lastBiWeek": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "attributeValues": [],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "S71jro9RdoW"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "v9TOuOKoZxb"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "IwClTTnBn8k"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "V6COQEjJ7E1"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou"
+      ],
+      "series": []
+    },
+    {
+      "lastUpdated": "2024-11-13T10:54:10.023",
+      "id": "m5VLwjeCi2v",
+      "created": "2024-11-13T10:49:40.190",
+      "name": "Action plan C",
+      "showData": true,
+      "fixRowHeaders": false,
+      "numberType": "VALUE",
+      "userOrganisationUnitChildren": false,
+      "type": "PIVOT_TABLE",
+      "hideEmptyColumns": false,
+      "hideEmptyRows": true,
+      "userOrganisationUnit": true,
+      "rowSubTotals": false,
+      "displayDensity": "NORMAL",
+      "regressionType": "NONE",
+      "cumulativeValues": false,
+      "completedOnly": false,
+      "colTotals": false,
+      "showDimensionLabels": false,
+      "sortOrder": 0,
+      "fontSize": "NORMAL",
+      "topLimit": 0,
+      "hideEmptyRowItems": "NONE",
+      "aggregationType": "DEFAULT",
+      "userOrganisationUnitGrandChildren": false,
+      "hideSubtitle": false,
+      "hideLegend": false,
+      "fixColumnHeaders": false,
+      "percentStackedValues": false,
+      "colSubTotals": false,
+      "noSpaceBetweenColumns": false,
+      "showHierarchy": false,
+      "rowTotals": false,
+      "digitGroupSeparator": "SPACE",
+      "hideTitle": false,
+      "regression": false,
+      "colorSet": "DEFAULT",
+      "skipRounding": false,
+      "legend": {
+        "showKey": false
+      },
+      "fontStyle": {},
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {},
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "relativePeriods": {
+        "thisYear": false,
+        "quartersLastYear": false,
+        "last30Days": false,
+        "last10Years": false,
+        "last52Weeks": false,
+        "last90Days": false,
+        "thisWeek": false,
+        "last60Days": false,
+        "lastMonth": false,
+        "last14Days": false,
+        "biMonthsThisYear": false,
+        "yesterday": false,
+        "monthsThisYear": false,
+        "last2SixMonths": false,
+        "thisQuarter": false,
+        "last12Months": false,
+        "last5FinancialYears": false,
+        "lastQuarter": true,
+        "thisSixMonth": false,
+        "last3Months": false,
+        "thisFinancialYear": false,
+        "last4Weeks": false,
+        "thisDay": false,
+        "thisMonth": false,
+        "last5Years": false,
+        "last6BiMonths": false,
+        "last10FinancialYears": false,
+        "last4BiWeeks": false,
+        "lastFinancialYear": false,
+        "weeksThisYear": false,
+        "lastBiWeek": false,
+        "last6Months": false,
+        "last3Days": false,
+        "quartersThisYear": false,
+        "monthsLastYear": false,
+        "lastWeek": false,
+        "last7Days": false,
+        "last180Days": false,
+        "thisBimonth": false,
+        "lastBimonth": false,
+        "lastSixMonth": false,
+        "thisBiWeek": false,
+        "lastYear": false,
+        "last12Weeks": false,
+        "last4Quarters": false
+      },
+      "seriesKey": {
+        "hidden": false
+      },
+      "reportingParams": {
+        "parentOrganisationUnit": false,
+        "reportingPeriod": false,
+        "organisationUnit": false,
+        "grandParentOrganisationUnit": false
+      },
+      "dataElementGroupSetDimensions": [],
+      "axes": [],
+      "translations": [],
+      "yearlySeries": [],
+      "filterDimensions": [
+        "pe"
+      ],
+      "itemOrganisationUnitGroups": [],
+      "subscribers": [],
+      "columnDimensions": [
+        "dx"
+      ],
+      "attributeValues": [],
+      "optionalAxes": [],
+      "favorites": [],
+      "dataDimensionItems": [
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "l6V1q2IbdsP"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "oiPpA162OOT"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "DJQZ9jCJXlo"
+          }
+        },
+        {
+          "dataDimensionItemType": "DATA_ELEMENT",
+          "dataElement": {
+            "id": "l30IhaILYwu"
+          }
+        }
+      ],
+      "categoryOptionGroupSetDimensions": [],
+      "organisationUnitGroupSetDimensions": [],
+      "organisationUnitLevels": [],
+      "periods": [],
+      "organisationUnits": [],
+      "categoryDimensions": [],
+      "rowDimensions": [
+        "ou"
+      ],
+      "series": []
     }
   ],
   "dashboards": [
@@ -19972,7 +21317,18 @@
       "restrictFilters": false,
       "sharing": {
         "owner": "ADMIN_ID",
-        "userGroups": {},
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          },
+          "QQHOUejvIJp": {
+            "displayName": "MRDQA Data access",
+            "access": "r-------",
+            "id": "QQHOUejvIJp"
+          }
+        },
         "external": false,
         "public": "--------",
         "users": {}
@@ -20816,6 +22172,198 @@
             "externalize": true,
             "delete": true,
             "write": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        }
+      ],
+      "translations": [],
+      "allowedFilters": []
+    },
+    {
+      "created": "2024-11-13T10:53:12.124",
+      "lastUpdated": "2024-11-13T10:53:12.124",
+      "name": "MRDQA: Action plan",
+      "id": "Im7wn9Ws3kJ",
+      "restrictFilters": false,
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          },
+          "QQHOUejvIJp": {
+            "displayName": "MRDQA Data access",
+            "access": "r-------",
+            "id": "QQHOUejvIJp"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "layout": {
+        "columns": []
+      },
+      "itemConfig": {
+        "insertPosition": "END"
+      },
+      "favorites": [],
+      "dashboardItems": [
+        {
+          "lastUpdated": "2024-11-13T10:53:12.124",
+          "id": "qGgoKgYws9F",
+          "created": "2024-11-13T10:53:12.066",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 20,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "MOMo0wzVGfC"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2024-11-13T10:53:12.124",
+          "id": "pYs5kTIgKmp",
+          "created": "2024-11-13T10:53:12.066",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "x": 20,
+          "width": 20,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "MbET1PqOFrY"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2024-11-13T10:53:12.124",
+          "id": "jbuQPHopVu7",
+          "created": "2024-11-13T10:53:12.066",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "x": 40,
+          "width": 20,
+          "interpretationLikeCount": 0,
+          "y": 0,
+          "favorite": false,
+          "visualization": {
+            "id": "m5VLwjeCi2v"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
+            "manage": true
+          },
+          "sharing": {
+            "userGroups": {},
+            "external": false,
+            "users": {}
+          },
+          "favorites": [],
+          "reports": [],
+          "translations": [],
+          "userGroupAccesses": [],
+          "attributeValues": [],
+          "resources": [],
+          "users": [],
+          "userAccesses": []
+        },
+        {
+          "lastUpdated": "2024-11-13T10:53:12.124",
+          "id": "jK5b1d90WTh",
+          "created": "2024-11-13T10:53:12.066",
+          "type": "VISUALIZATION",
+          "externalAccess": false,
+          "contentCount": 1,
+          "height": 29,
+          "interpretationCount": 0,
+          "x": 0,
+          "width": 20,
+          "interpretationLikeCount": 0,
+          "y": 29,
+          "favorite": false,
+          "visualization": {
+            "id": "sveVtoq3Ior"
+          },
+          "access": {
+            "read": true,
+            "update": true,
+            "externalize": true,
+            "write": true,
+            "delete": true,
             "manage": true
           },
           "sharing": {
@@ -21695,6 +23243,54 @@
         },
         {
           "id": "oLdkgk3OgVM"
+        },
+        {
+          "id": "RhDklLvDjUX"
+        },
+        {
+          "id": "vU9WXtWMGsu"
+        },
+        {
+          "id": "GnpLxUjAaSN"
+        },
+        {
+          "id": "vHiMwNUcOSo"
+        },
+        {
+          "id": "S71jro9RdoW"
+        },
+        {
+          "id": "v9TOuOKoZxb"
+        },
+        {
+          "id": "IwClTTnBn8k"
+        },
+        {
+          "id": "V6COQEjJ7E1"
+        },
+        {
+          "id": "l6V1q2IbdsP"
+        },
+        {
+          "id": "oiPpA162OOT"
+        },
+        {
+          "id": "DJQZ9jCJXlo"
+        },
+        {
+          "id": "l30IhaILYwu"
+        },
+        {
+          "id": "iUwG4E82fX9"
+        },
+        {
+          "id": "LRZjstnvZJR"
+        },
+        {
+          "id": "uoQXsPWAWiQ"
+        },
+        {
+          "id": "ezBn7tPumCx"
         }
       ]
     }
