@@ -1458,6 +1458,60 @@
           "id": "kLFIiHNxu9b"
         }
       ]
+    },
+    {
+      "lastUpdated": "2022-04-18T10:46:47.569",
+      "code": "OPTION_DATA_MISSING_IN_SUPPORT",
+      "created": "2022-03-08T08:05:28.921",
+      "id": "k09zm5I6cPo",
+      "ignoreApproval": false,
+      "name": "Certaines données manquent dans les supports",
+      "categoryCombo": {
+        "id": "WYM1tlgPJpq"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "TaglrRCsF0N"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-04-18T10:46:47.569",
+      "code": "OPTION_MOSQUITO_BREAKAGE",
+      "created": "2022-03-08T08:05:28.921",
+      "id": "uvqHhtupfOy",
+      "ignoreApproval": false,
+      "name": "Rupture de moustiquaire",
+      "categoryCombo": {
+        "id": "WYM1tlgPJpq"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "evaJ5Gd2znt"
+        }
+      ]
+    },
+    {
+      "lastUpdated": "2022-04-18T10:46:47.569",
+      "code": "OPTION_OTHER_REASONS",
+      "created": "2022-03-08T08:05:28.921",
+      "id": "dcCApxzGGIw",
+      "ignoreApproval": false,
+      "name": "Autres raisons",
+      "categoryCombo": {
+        "id": "WYM1tlgPJpq"
+      },
+      "translations": [],
+      "attributeValues": [],
+      "categoryOptions": [
+        {
+          "id": "tbmOuoXsqey"
+        }
+      ]
     }
   ],
   "userGroups": [
@@ -4048,6 +4102,15 @@
         },
         {
           "id": "nL1qqm1LBQv"
+        },
+        {
+          "id": "TaglrRCsF0N"
+        },
+        {
+          "id": "evaJ5Gd2znt"
+        },
+        {
+          "id": "tbmOuoXsqey"
         }
       ]
     },
@@ -4679,6 +4742,93 @@
       "name": "Disponible",
       "id": "kLFIiHNxu9b",
       "shortName": "Disponible",
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          },
+          "QQHOUejvIJp": {
+            "displayName": "MRDQA Accès aux données",
+            "access": "r-rw----",
+            "id": "QQHOUejvIJp"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "attributeValues": [],
+      "translations": [],
+      "organisationUnits": []
+    },
+    {
+      "code": "OPTION_DATA_MISSING_IN_SUPPORT",
+      "created": "2022-03-08T07:57:24.467",
+      "lastUpdated": "2022-05-05T11:09:24.042",
+      "name": "Certaines données manquent dans les supports",
+      "id": "TaglrRCsF0N",
+      "shortName": "Certaines données manquent dans les supports",
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          },
+          "QQHOUejvIJp": {
+            "displayName": "MRDQA Accès aux données",
+            "access": "r-rw----",
+            "id": "QQHOUejvIJp"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "attributeValues": [],
+      "translations": [],
+      "organisationUnits": []
+    },
+    {
+      "code": "OPTION_MOSQUITO_BREAKAGE",
+      "created": "2022-03-08T07:57:24.467",
+      "lastUpdated": "2022-05-05T11:09:24.042",
+      "name": "Rupture de moustiquaire",
+      "id": "evaJ5Gd2znt",
+      "shortName": "Rupture de moustiquaire",
+      "sharing": {
+        "owner": "ADMIN_ID",
+        "userGroups": {
+          "PgxZ8cN1uLT": {
+            "displayName": "MRDQA Admin",
+            "access": "rw------",
+            "id": "PgxZ8cN1uLT"
+          },
+          "QQHOUejvIJp": {
+            "displayName": "MRDQA Accès aux données",
+            "access": "r-rw----",
+            "id": "QQHOUejvIJp"
+          }
+        },
+        "external": false,
+        "public": "--------",
+        "users": {}
+      },
+      "attributeValues": [],
+      "translations": [],
+      "organisationUnits": []
+    },
+    {
+      "code": "OPTION_OTHER_REASONS",
+      "created": "2022-03-08T07:57:24.467",
+      "lastUpdated": "2022-05-05T11:09:24.042",
+      "name": "Autres raisons",
+      "id": "tbmOuoXsqey",
+      "shortName": "Autres raisons",
       "sharing": {
         "owner": "ADMIN_ID",
         "userGroups": {
@@ -19859,6 +20009,15 @@
             },
             {
               "id": "nL1qqm1LBQv"
+            },
+            {
+              "id": "TaglrRCsF0N"
+            },
+            {
+              "id": "evaJ5Gd2znt"
+            },
+            {
+              "id": "tbmOuoXsqey"
             }
           ]
         }
