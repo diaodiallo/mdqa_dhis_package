@@ -1,5 +1,5 @@
 ## Overview
-This DHIS2 package is designed to work with an <a href="https://github.com/diaodiallo/mrdqa_distributions">android mobile application</a>, its dataset is populated by this application after countries supervision activities. From the version 2.0.0 of this package you need the 4.1.0 or later version of the Android app.
+This DHIS2 package is designed to work with an <a href="https://github.com/diaodiallo/mrdqa_distributions">android mobile application</a>, its dataset is populated by this application after countries supervision activities. From the version 2.x of this package you need the 5.x or later version of the Android app.
 ## Requirements
 The following minimum requirements need to be met by the DHIS2 instance;
 * DHIS2 version 2.35 and above
